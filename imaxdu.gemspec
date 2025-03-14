@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "iMaxdu"
+  spec.name          = "imaxdu"
   spec.version       = "0.1.0"
-  spec.authors       = ["iMaxdu"]
-  spec.email         = ["d510622169@gmail.com"]
+  spec.authors       = ["imaxdu"]
+  spec.email         = ["maxyfdu@gmail.com"]
 
   spec.summary       = "A beautiful, minimal theme for Jekyll."
   spec.homepage      = "https://github.com/iMaxdu/iMaxdu.github.io"
